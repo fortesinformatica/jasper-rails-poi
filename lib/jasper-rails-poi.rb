@@ -21,6 +21,7 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 require "jasper-rails-poi/version"
+require "jasper-rails-poi/poi_renderer"
 require "rjb"
 
 module JasperRails
