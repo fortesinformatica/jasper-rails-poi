@@ -1,4 +1,4 @@
-# jasper-rails-jfreechart
+# jasper-rails-poi
 
 [jasper-rails](https://github.com/fortesinformatica/jasper-rails) plugin to gererate XLS and CSV reports.
 
